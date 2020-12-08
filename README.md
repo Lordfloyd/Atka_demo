@@ -2,21 +2,21 @@
 
 ### Technical Objectives
 
-:black_medium_square: Implementation of a simplified lock smart-contract. :ballot_box_with_check:
+:black_medium_square: Implementation of a simplified lock smart-contract. :ballot_box_with_check:<br>
 :black_medium_square: Implementation of a management interface.
 
 ### Technological Tools
 **FRONT END**
 :black_medium_square: Drizzle
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: React
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: React<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: MDB React
 
 **BACK END**
-:black_medium_square: Node.js
-:black_medium_square: Ganache 
-:black_medium_square: Truffle
-:black_medium_square: MetaMask
-:black_medium_square: Solidity
+:black_medium_square: Node.js<br>
+:black_medium_square: Ganache<br> 
+:black_medium_square: Truffle<br>
+:black_medium_square: MetaMask<br>
+:black_medium_square: Solidity<br>
 
 ### Setting Up
 
