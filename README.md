@@ -7,11 +7,13 @@
 
 ### Outils utilisés
 **FRONT END**
+
 :black_medium_square: Drizzle<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: React<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:black_medium_square: MDB React<br>
 
 **BACK END**
+
 :black_medium_square: Node.js<br>
 :black_medium_square: Ganache<br> 
 :black_medium_square: Truffle<br>
